@@ -10,11 +10,11 @@ In this simple game, the user has to guess a randomly generated number. It's a g
 
 ## ✨ Features
 
-- 🎲 Random number generation
-- 💡 Real-time input validation and hints
-- 🧠 Simple game logic
-- 🔄 Play Again / Reset functionality
-- 🎨 Clean and beginner-friendly UI
+- 🎲 Random number generation  
+- 💡 Real-time input validation and hints  
+- 🧠 Simple game logic  
+- 🔄 Play Again / Reset functionality  
+- 🎨 Clean and beginner-friendly UI  
 
 ---
 
@@ -26,21 +26,32 @@ In this simple game, the user has to guess a randomly generated number. It's a g
 
 ## 🛠️ Technologies Used
 
-- HTML5  
-- CSS3  
-- JavaScript (Vanilla)
+- **HTML5**  
+- **CSS3**  
+- **Vanilla JavaScript**
+
+---
+
+## 📈 Lighthouse Report
+
+| Metric           | Score |
+|------------------|-------|
+| 🚀 Performance    | 99    |
+| ♿ Accessibility  | 91    |
+| ✅ Best Practices | 100   |
+| 🔍 SEO            | 90    |
 
 ---
 
 ## 🎮 How to Play
 
-1. The game generates a random number between 1 and 20.
-2. You have to guess the correct number.
-3. Feedback is provided after each guess:
-   - "Too high!" or "Too low!"
-   - "Correct!" if you guess it right.
-4. Try to guess the number in as few attempts as possible!
-5. Click "Again" to restart the game.
+1. The game generates a random number between 1 and 20.  
+2. You have to guess the correct number.  
+3. Feedback is provided after each guess:  
+   - "Too high!" or "Too low!"  
+   - "Correct!" if you guess it right.  
+4. Try to guess the number in as few attempts as possible!  
+5. Click "Again" to restart the game.  
 
 ---
 
