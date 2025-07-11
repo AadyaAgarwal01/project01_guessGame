@@ -41,6 +41,8 @@ In this simple game, the user has to guess a randomly generated number. It's a g
 | ✅ Best Practices | 100   |
 | 🔍 SEO            | 90    |
 
+<img width="1145" height="193" alt="Lighthouse Report" src="https://github.com/user-attachments/assets/0627fe3d-6217-4c9d-95f5-e6530a4b3439" />
+
 ---
 
 ## 🎮 How to Play
